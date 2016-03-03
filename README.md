@@ -4,7 +4,7 @@ Uruchomienie
 
 rest:
 ```
-cd rest <br>
+cd rest
 mvn jetty:run
 ```
 
